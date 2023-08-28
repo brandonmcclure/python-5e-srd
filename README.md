@@ -1,3 +1,5 @@
+This is an auto generated python client for [dnd5eapi](https://github.com/5e-bits/5e-srd-api). It is working nicly with my limited needs of my fork of [dnd_5e_character_generator](https://github.com/brandonmcclure/dnd_5e_character_generator). I need to regenerate and rename so that it has a more descriptive module name than `openapi-client` so be aware that this will have breaking changes going forward. PRs welcomed.
+
 # openapi-client
 # Introduction
 
